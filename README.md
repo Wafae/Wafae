@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wafae, a software engineer in QA after 8 years of programming
 - 👀 I’m interested in writing, travelling, anime series, music, and software quality & development
-- 🌱 I’m currently improving my skills on *Cypress.io*
+- 🌱 I’m currently improving my skills on *Appium*, *Selenium* & *Cypress.io*
 - 💞️ I’m looking to collaborate on your project if it needs quality/risk assessment, or a testing strategy
 - 🪶 I focus on :
 	-	Ergonomics
